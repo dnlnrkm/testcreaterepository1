@@ -1,2 +1,2 @@
-# testcreaterepository1
+# testrepository1
 This is my repository made for experimenting features of GitHub repositories.
